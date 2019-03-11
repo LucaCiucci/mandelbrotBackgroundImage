@@ -1,0 +1,9 @@
+quando si apre lancia il render con 2000 iterzazioni
+
+premi ctrl destro per interrompere il calcolo
+F per la preview con 30 iterazioni
+R per la risoluzione reale
+frecce per la navigazione e + / - per zoom (poi premi F o R)
+
+
+NOTA: resize della window non funziona
